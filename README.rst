@@ -49,9 +49,9 @@ Things To-Do
 
 **Known History**
 
-* init version
+* Initial version
 
-  Uses pydice for it's random numbers.
+  Uses pydice for its random numbers.
 
 
 Contact
