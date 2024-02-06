@@ -1,7 +1,7 @@
 **Monty Hall problem for Python 3.11**
-===============================================
+======================================
 
-**Graphical Dice Roll Results** is a Python 3.11 program for rolling various dice using PyQt5 and Matplotlib.
+Should the game contestant stay with their chosen door? Or switch to another?
 
 .. figure:: images/screenshot.png
 
