@@ -22,32 +22,15 @@ Some Things Required
   For graphics plotting.
 
 
-Don't Have Python?
-------------------
-
-The .EXE (in the dist folder) can be run in Windows 11 or 10.
-
-
-.. |ss| raw:: html
-
-    <strike>
-
-.. |se| raw:: html
-
-    </strike>
-
 Things To-Do
 ------------
 
 | Instruction manual.
 | Cheat codes.
-|ss|
 
-| Start on a To-Do.
 
-|se|
-
-**Known History**
+Known History
+-------------
 
 * Initial version
 

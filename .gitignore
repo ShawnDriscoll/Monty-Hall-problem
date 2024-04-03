@@ -61,6 +61,7 @@ develop-eggs/
 ## PyInstaller
 ################
 build/
+dist/
 *.bat
 *.spec
 *.ico
